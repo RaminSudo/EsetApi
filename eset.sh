@@ -47,12 +47,12 @@ done
 bld=$'\e[1m'
 rst=$'\e[0m'
 
-echo -e "$f2 MaTaDoR Api By @MahDiRoO :)$rst"
+echo -e "$f2 MaTaDoR Api By @Me_DeViL :)$rst"
 echo ""
 sleep 1
 echo -e "\e[1mOperation : \e[96mStarting Bot\e[0m"
-echo -e "\e[1mSource : \e[94m MaTaDoR Api\e[0m"
-echo -e "\e[38;5;82mDeveloper : \e[38;5;226mMahDi Mohseni @MahDiRoO\e[0m"
+echo -e "\e[1mSource : \e[94m Eset Api\e[0m"
+echo -e "\e[38;5;82mDeveloper : \e[38;5;226mRamin Rabiee Devil\e[0m"
 echo -e "\e[1m**********************************\e[0m"
 sleep 2
 echo -e "\e[1mTime : \e[45m$time\e[0m \e[1"
@@ -73,7 +73,7 @@ echo -e "\e[1m#*#*#*#*#*#*#*#*#*#*#*#*#"
 echo -e "\e[40;38;5;82mProcess : \e[30;48;5;82m ""$ProcessCnt\e[0m"
 sleep 0.5
 echo -e "\e[1m#*#*#*#*#*#*#*#*#*#*#*#*#\e[0m"
-echo -e "\e[92m     >>>> MaTaDoR Api Launching <<<<\e[0m"
+echo -e "\e[92m     >>>> Eset Api Launching <<<<\e[0m"
 sleep 2
 
 if [ "$1" = "install" ]; then
