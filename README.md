@@ -35,7 +35,7 @@ tmux
 
 # Developers!
 
-[Ramin][Telegram](https://t.me/me_devil)
+[Ramin](https://t.me/me_devil)
 
 ### Our Telegram Channel:
 
