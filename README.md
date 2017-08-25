@@ -1,4 +1,4 @@
-# [MaTaDoRApi v1.0](https://t.me/matadorteam)
+# [ٍEset Api v1.0](https://t.me/pmresannova)
 An advanced administration bot based on BDMessenger
 
 * * *
@@ -6,18 +6,18 @@ An advanced administration bot based on BDMessenger
 ## Configure
 
 * Put Your Bot `TOKEN` At Line `3` in bot.lua
-* Put Your `Telegram ID` At Line `5 & 186` in bot.lua
+* Put Your `Telegram ID` At Line `5 & 185` in bot.lua
 
 # Installation
 
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/MaTaDoRTeaM/MaTaDoRapi.git
-cd MaTaDoRapi
-chmod +x matador.sh
-./matador.sh install
-./matador.sh 
+git clone https://github.com/RaminSudo/EsetApi.git
+cd EsetApi
+chmod +x eset.sh
+./eset.sh install
+./eset.sh 
 
 
 # For Auto Launch:
@@ -29,14 +29,14 @@ tmux
 
 # Special thanks to
 
-`Beyond Team Members`
+`Beyond Team`
 
 * * *
 
 # Developers!
 
-[MahDiRoO](https://github.com/solid021) ([Telegram](https://t.me/MahDiRoO))
+[Ramin][Telegram](https://t.me/me_devil)
 
 ### Our Telegram Channel:
 
-[@MatadorTeam](https://t.me/matadorteam)
+[@PmResanNova](https://t.me/pmresannova)
